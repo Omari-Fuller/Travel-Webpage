@@ -1,0 +1,12 @@
+body{
+     color:#000000;
+}
+body{ 
+ background-image:url("https://images.ctfassets.net/h82kzjd39wa1/4zDYZC6XXaAukgwwikw8KS/87a81da74e9533b4b1865b1bca19f0dd/Jamaica_720x420_.jpg");
+  background-repeat: no-repeat;
+     background-size: cover;
+    font-size:25px;
+} 
+img{
+    width:300px;    
+}
